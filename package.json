@@ -1,0 +1,29 @@
+{
+  "name": "ds-algo",
+  "version": "0.0.1",
+  "description": "My ds and algo prac",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "debug": "node --experimental-specifier-resolution=node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialabdulrehman/ds-algo.git"
+  },
+  "keywords": [
+    "algorithm",
+    "datastructure",
+    "javascript",
+    "js",
+    "algo",
+    "ds"
+  ],
+  "author": "NizTheDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/officialabdulrehman/ds-algo/issues"
+  },
+  "homepage": "https://github.com/officialabdulrehman/ds-algo#readme"
+}
